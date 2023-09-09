@@ -1,5 +1,8 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/v15HUWtKC40YlKpSaE" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/v15HUWtKC40YlKpSaE">via GIPHY</a></p> 
+
+ <img src="https://readme-typing-svg.demolab.com/?lines= %20Greetings%20fellow%20travellers;Iam%20a%20Full-stack%20developer;%20Always%20learning%20new%20things;&font=questa%20Code&center=true&width=540&height=45&color=70e000&vCenter=true&pause=1000&size=25" /></a>
+ <img  align = "left" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kyaDN4Mm9wNmpicHUxd2MzeHJsOGdqdXByN3ltN3dsMmtnNXF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v15HUWtKC40YlKpSaE/giphy.gif" width = " 900px" height = " 500px" />
+
 
 <!--
 **makoalex/makoalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
